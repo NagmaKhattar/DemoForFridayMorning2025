@@ -22,6 +22,7 @@ public class DemoForGit {
         System.out.println("Hello World");
         // adding a comment
         //making another change
+        //showing local and remote 
         
     }
     
