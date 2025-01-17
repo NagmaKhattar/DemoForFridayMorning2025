@@ -17,6 +17,8 @@ public class DemoForGit {
      * arguments
      */
     //showing pull
+    //showing fetch
+    //showing merge
     public static void main(String[] args) 
     {
         // TODO code application logic here
@@ -24,6 +26,7 @@ public class DemoForGit {
         // adding a comment
         //making another change
         //showing local and remote 
+        //fetching and merging
         
     }
     
